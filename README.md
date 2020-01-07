@@ -21,4 +21,4 @@ Use 'qpeek xxx' to check all specified jobs that contain 'xxx' in their job ids.
 
 qdel.py is written for quickly and coveniently cancel the executing jobs in queue with part of the full id of jobs input.
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+*********************************************************************************
