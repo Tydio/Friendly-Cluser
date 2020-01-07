@@ -1,6 +1,5 @@
 # SkyLake-II
 Little python scripts for using SkyLake-II high-performance clusters easilier and more coveniently.
-
 *********************************************************************************
 
 qsub.py is written for avoiding repeating to type the '-N', '-n', '-p', and '-J' parameters for the job to be submitted.
