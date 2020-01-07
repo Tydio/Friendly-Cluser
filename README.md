@@ -25,4 +25,6 @@ qdel.py is written for quickly and coveniently cancel the executing jobs in queu
 
 Use 'qdel.py xxx' to kill a job, in which 'xxx' is the last several characters of a job.
 
+And it should be put togeter with 'qpeek.py' in a same directory, since it refers some functions inside 'qpeek.py'.
+
 *********************************************************************************
